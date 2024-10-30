@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+sklearn  # or any other dependencies
+matplotlib.pyplot
+tkinter
+os
+webbrowser
+
+
